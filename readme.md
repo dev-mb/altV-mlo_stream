@@ -19,10 +19,10 @@ mlo_name/
 \-> stream.cfg
 ```
 
-<br><br><br>
+<br><br>
 
 ###### Legende
 
-> Created by [Dev-MB](https://dev-mb.dev)
-> Infomation by [alt:V by the altMP Team](https://altv.mp/#/)
+> Created by [Dev-MB](https://dev-mb.dev) <br>
+> Infomation by [alt:V by the altMP Team](https://altv.mp/#/) <br>
 > Wiki Page: https://wiki.altv.mp/wiki/Tutorial:Stream_MLOs
