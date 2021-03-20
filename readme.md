@@ -1,11 +1,12 @@
 # alt:V Multiplayer | MLO Streaming
 
-Put all MLO Files in the Stream-Folder.
+Put all MLO Files in the `stream/` Folder.
 <br>
-Change the Foldername & add the Foldername in your `server.cfg`
+Change the Foldername > `mlo_name/` in yout MLO Name & add the Foldername in your `server.cfg`
 
+<br><br>
 ```
-burgershot/
+mlo_name/
 |-> stream/
 |    |-> _manifest.ymf
 |    |-> *.ytyp
@@ -18,3 +19,10 @@ burgershot/
 \-> stream.cfg
 ```
 
+<br><br><br>
+
+###### Legende
+
+> Created by [Dev-MB](https://dev-mb.dev)
+> Infomation by [alt:V by the altMP Team](https://altv.mp/#/)
+> Wiki Page: https://wiki.altv.mp/wiki/Tutorial:Stream_MLOs
