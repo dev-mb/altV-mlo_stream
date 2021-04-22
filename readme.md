@@ -2,7 +2,7 @@
 
 Put all MLO Files in the `stream/` Folder.
 <br>
-Change the Foldername > `mlo_name/` in yout MLO Name & add the Foldername in your `server.cfg`
+Change the Foldername > `mlo_name/` in your MLO Name & add the Foldername in your `server.cfg`
 
 <br><br>
 ```
