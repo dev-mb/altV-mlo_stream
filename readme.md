@@ -23,8 +23,8 @@ mlo_name/
 
 ###### Legende
 
-> Created by [Dev-MB](https://dev-mb.dev)
-    <a href="https://github.com/dev-mb"><img src="https://cdn.mbdev.cc/cdn/signatur.gif" width="25px;" alt="Dev-MB"/></a> <br>
+> Created by 
+    <a href="https://github.com/dev-mb"><img src="https://cdn.mbdev.cc/cdn/signatur.gif" width="100px;" alt="Dev-MB"/></a> <br>
 > Infomation by [alt:V by the altMP Team](https://altv.mp/#/)
     <a href="https://github.com/altMP"><img src="https://cdn.mbdev.cc/cdn/altv.svg" width="25px;" alt="altMP"/></a> <br>
 > Wiki Page: https://wiki.altv.mp/wiki/Tutorial:Stream_MLOs
