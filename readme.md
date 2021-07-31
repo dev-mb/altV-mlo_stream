@@ -21,7 +21,7 @@ mlo_name/
 
 <br><br>
 
-###### Legende
+###### Credits
 
 > Created by [Dev-MB](https://dev-mb.dev)
     <a href="https://github.com/dev-mb"><img src="https://cdn.mbdev.cc/cdn/mb/mb.glitch.gif" width="25px;" alt="Dev-MB"/></a> <br>
